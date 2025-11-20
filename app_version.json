@@ -1,1 +1,5 @@
-app_version.json
+{
+  "latestVersion": "1.0.0",
+  "url": "test"
+}
+  
